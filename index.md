@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# 规则
 
-You can use the [editor on GitHub](https://github.com/studyxuexi/English-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+群友需每天完成以下３项英语学习任务，缺一不可:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 背单词: 至少背30个单词。
 
-### Markdown
+2. 阅读: 阅读500词左右。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
+# 如何打卡
 
-# Header 1
-## Header 2
-### Header 3
+## 任务1
+请使用一款背单词App进行打卡，并截图。
 
-- Bulleted
-- List
+## 任务2
+可使用英语阅读打卡软件进行打卡，或者进行屏幕截图，或者将阅读的内容拍一张照（如果书本尺寸太小，读了多页才够500词，请将字数最多的一部分进行拍照即可）。如果使用的阅读打卡App不会显示阅读的词数，只显示学习时间，请确保阅读时间不少于5分钟。（这里的截图和拍照也有只打卡而不学习的嫌疑，请大家自觉完成学习任务图片，毕竟打卡是为了学习，提高英语水平，不是为了打卡而打卡。任务3原来想让大家上传一段不短于5分钟的阅读音频，但因为可能涉及到隐私问题，就改掉了）。
 
-1. Numbered
-2. List
+**请在北京时间每天(01:00:00, 23:59:00) (开区间!) 将以上三张照片/图片上传到公众号，公众号会返回相应信息提示打卡是否完成（不在东八区的朋友请合理安排学习时间）。群主会在次日22:30左右将打卡情况发到群里，周六晚上因为群主有其他事情，所以不会统计周五打卡情况，周五的学习计划请自觉完成。**
 
-**Bold** and _Italic_ and `Code` text
+***
 
-[Link](url) and ![Image](src)
-```
+# 奖罚机制
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. 每天未完成打卡任务的群友请在群里发一个两元的红包（分成n个，n为群成员人数)，发错红包要重发一个。
 
-### Jekyll Themes
+2. 如果当天没完成打卡且没有发红包的话，会被踢出群聊, 下次如果进群，要补交罚款。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/studyxuexi/English-learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. 因为每天的打卡记录是以超链接形式展示的，不点开看不知道具体内容，所以可能有群友随便发几张无关的图，应付打卡的现象。欢迎举报这种作弊现象。如果没有完成当天的学习任务，而进行作弊，罚款额度将由两元变为五元。
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
+
+# 特殊情况
+如出现不可抗拒因素（例如微信公众号限制了一些技术或者接口的使用，导致后台统计打卡情况的程序无法正常运行或者后台服务器出现故障、网络波动、死机等情况）导致当日打卡情况无法统计，则当日打卡记录作废，当日没有打卡的群友无需发红包。
+
+***
+
+# 其他说明
+群规可能会根据大家的反馈或者群主工作学习时间安排进行调整，会在公众号发文或者在群里通知大家。平时群里不会发过多消息打扰大家，所以可以将群消息设置为静音，北京时间每天22:30左右关注一下群消息即可，没有完成任务的朋友请即时发红包，以免被移出群聊。 
+
+
+
+***
+最后发表一点个人看法：打卡是为了培养自律性和激发学习动力，不建议将提高英语水平寄太多希望于打卡本身，外语水平的提高更多的要靠多读、多听、多练、多理解、多记忆。Exposure is key to language learning. 希望大家能稳步实质性地提高外语水平。
+
+
+
+有意向加群打卡并已经确认以上规则的话，请联系群主微信:　2992860292，或者扫描下面的二维码。也欢迎提出宝贵意见，大家共同进步。
+
+***
+## 公众号
+* ![公众号](https://s3.bmp.ovh/imgs/2022/05/14/ea3f802e302ab391.jpg)
+## 群主微信
+* ![QR code](https://s3.bmp.ovh/imgs/2022/05/14/a2b32c7145d40cbe.jpeg)
