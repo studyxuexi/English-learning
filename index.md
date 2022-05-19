@@ -51,6 +51,6 @@
 
 ***
 ### 公众号
-* ![公众号](https://s3.bmp.ovh/imgs/2022/05/14/ea3f802e302ab391.jpg)
+* ![公众号](./studyxuexi.jpg)
 ### 群主微信
-* ![QR code](https://s3.bmp.ovh/imgs/2022/05/14/a2b32c7145d40cbe.jpeg)
+* ![QR code](./wechat.jpeg)
